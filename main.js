@@ -95,6 +95,9 @@ document.addEventListener("keydown", function (input) {
     case "KeyC":
       openInfo();
       break;
+    case "KeyT":
+      gameSpeed = prompt("Please enter the new game speed (1 is default, higher numbers are faster and lower numbers are slower)", gameSpeed);
+      break;
     default:
       break;
   }
