@@ -3,6 +3,8 @@
 Me trying to figure out how to mod in a simple feature to a preexisting game (and figuring out how to github along the way).
 For context: time speed is something in the original game, however it can't be changed outside of console so as a fun little project I'm trying to make it customisable without that.
 
+[Actual link for mod](https://fishydids.github.io/just-a-platformer-custom-time-speed-mod/)
+
 (everything below this point is the same as on the original game's readme since I cbb to change it)
 
 ## Play It
